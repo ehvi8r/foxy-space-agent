@@ -42,7 +42,7 @@ Documentation shape rules:
 
 ## Introduction
 
-Space Agent is a browser-first AI agent runtime.
+Foxy Space Agent is a browser-first AI agent runtime.
 
 The browser app is the primary runtime. The Node.js side exists as thin infrastructure around it for:
 

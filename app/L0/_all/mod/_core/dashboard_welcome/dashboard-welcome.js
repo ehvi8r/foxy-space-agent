@@ -20,7 +20,8 @@ const EXAMPLE_ORDER = Object.freeze([
 ]);
 const RESOURCE_LINKS = Object.freeze([
   {
-    href: "https://github.com/agent0ai/space-agent",
+    //  href: "https://github.com/agent0ai/space-agent",
+     href: "https://github.com/ehvi8r/foxy-space-agent",
     id: "github-repo",
     label: "GitHub Repo"
   },
